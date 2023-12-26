@@ -1,6 +1,7 @@
 ## Hi there, I'm Maximilian Gartz 👋
 
-- Machine Learning Engineer at ML6 with MLOps/DevOps focus
+- Machine Learning Engineer at <a href="https://www.ml6.eu/">ML6</a>
+- Specializations: Machine Learning, MLOps, Software Engineering, CI/CD
 - Fascinated by Mathematics and Machine Learning
 
 ## Skills :computer:
@@ -25,7 +26,7 @@ These are some of the technologies that I use or have worked with in the past:
 
 **Databases**
 
-<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4">|<img title="MySQL" alt="MySQL" width="40px" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4">|<img title="BigQuery" alt="BigQuery" width="40px" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg">|<img title="Firestore", alt="Firestore" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">|<img title="Prometheus" alt="Prometheus" width="40px" src="https://avatars.githubusercontent.com/u/3380462?s=200&v=4">
+<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4">|<img title="MySQL" alt="MySQL" width="40px" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4">|<img title="BigQuery" alt="BigQuery" width="40px" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg">|<img title="Firestore" alt="Firestore" width="40px" src="https://firebase.google.com/static/images/brand-guidelines/lockup_realtime-database.png">|<img title="Prometheus" alt="Prometheus" width="40px" src="https://avatars.githubusercontent.com/u/3380462?s=200&v=4">
 |--|--|--|--|--|
 
 **Clouds**
