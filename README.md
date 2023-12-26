@@ -23,6 +23,11 @@ These are some of the technologies that I use or have worked with in the past:
 |--|--|--|--|--|
 <img title="Kubeflow Pipelines" alt="Kubeflow Pipelines" width="40px" src="https://avatars.githubusercontent.com/u/33164907?s=200&v=4">|<img title="Flyte" alt="Flyte" width="40px" src="https://avatars.githubusercontent.com/u/35380635?s=200&v=4">|<img title="Grafana" alt="Grafana" width="40px" src="https://avatars.githubusercontent.com/u/7195757?s=48&v=4">|<img title="MLflow" alt="MLflow" width="40px" src="https://avatars.githubusercontent.com/u/39938107?s=48&v=4">|<img title="Weights & Biases" alt="Weights & Biases" width="40px" src="https://avatars.githubusercontent.com/u/26401354?s=200&v=4">
 
+**Databases**
+
+<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4">|<img title="MySQL" alt="MySQL" width="40px" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4">|<img title="BigQuery" alt="BigQuery" width="40px" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg">|<img title="Firestore", alt="Firestore" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">|<img title="Prometheus" alt="Prometheus" width="40px" src="https://avatars.githubusercontent.com/u/3380462?s=200&v=4">
+|--|--|--|--|--|
+
 **Clouds**
 
 <img title="GCP" alt="GCP" width="40px" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4">|<img title="Azure" alt="Azure" width="40px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4">
