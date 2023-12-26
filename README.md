@@ -34,13 +34,13 @@ These are some of the technologies that I use or have worked with in the past:
 <img title="GCP" alt="GCP" width="40px" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4">|<img title="Azure" alt="Azure" width="40px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4">
 |--|--|
 
-## Some of my Stats :bar_chart:
+## Some Stats :bar_chart:
 
 <img src="https://github-readme-stats.vercel.app/api?username=max-gartz&show_icons=true&theme=radical&include_all_commits=true">
 
 ## Let's Connect :handshake:
 
-<a href="www.linkedin.com/in/maximilian-gartz-a94380192/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+<a href="https://www.linkedin.com/in/maximilian-gartz-a94380192/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
 |--|
 
 <!-- Profile Views -->
