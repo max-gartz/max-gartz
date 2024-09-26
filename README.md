@@ -1,6 +1,6 @@
 ## Hi there, I'm Maximilian Gartz 👋
 
-- Machine Learning Engineer at <a href="https://en.merantix-momentum.com/">Merantix Momentum</a>
+- AI Platform Engineer at <a href="https://en.merantix-momentum.com/">Merantix Momentum</a>
 - Specializations: Machine Learning, Software Engineering, MLOps & DevOps
 - Fascinated by Mathematics and Machine Learning
 
